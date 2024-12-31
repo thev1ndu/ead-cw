@@ -79,16 +79,19 @@ Use the following credentials to log in based on the role:
 **Admin Role**
 
 Username: admin
+
 Password: admin123
 
 **Lecturer Role**
 
 Username: lecturer1
+
 Password: lecturer123
 
 **Student Role**
 
 Username: student1
+
 Password: student123
 
 ---
