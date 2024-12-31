@@ -76,17 +76,17 @@ Before you begin, ensure you have the following installed on your system:
 ### Login Credentials
 Use the following credentials to log in based on the role:
 
-##Admin Role
+**Admin Role**
 
 Username: admin
 Password: admin123
 
-##Lecturer Role
+**Lecturer Role**
 
 Username: lecturer1
 Password: lecturer123
 
-##Student Role
+**Student Role**
 
 Username: student1
 Password: student123
