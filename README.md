@@ -1,4 +1,4 @@
-# Quizly Project
+# Enterprise Application Development 1 - Course Work
 
 Welcome to the **Quizly** project! This document provides a detailed guide on how to set up and run the project.
 
