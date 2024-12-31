@@ -1,12 +1,12 @@
 # Enterprise Application Development 1 - Course Work
 
-Welcome to the **Quizly** project! This document provides a detailed guide on how to set up and run the project.
+Welcome to the **Quiz7** project! This document provides a detailed guide on how to set up and run the project.
 
 ---
 
 ## Project Description
 
-**Quizly** is an enterprise application designed to provide an online quiz platform tailored for the education sector. It simplifies quiz creation, management, and reporting, offering distinct roles for administrators, lecturers, and students. 
+**Quiz7** is an enterprise application designed to provide an online quiz platform tailored for the education sector. It simplifies quiz creation, management, and reporting, offering distinct roles for administrators, lecturers, and students. 
 
 ### Key Features
 
