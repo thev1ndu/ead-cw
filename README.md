@@ -53,17 +53,17 @@ Before you begin, ensure you have the following installed on your system:
    http://localhost/phpmyadmin
    ```
 
-## Importing the `oes.sql` File into phpMyAdmin
+Importing the `oes.sql` File into phpMyAdmin
 
 Follow these steps to set up the database:
 
-1. **Create a Database**:
+I. **Create a Database**:
    - Open phpMyAdmin.
    - Click on the **"Databases"** tab.
    - In the **"Create database"** field, enter `oes` as the database name.
    - Click **"Create"** to create the database.
 
-2. **Import the SQL File**:
+II. **Import the SQL File**:
    - Select the `oes` database from the list on the left panel.
    - Click on the **"Import"** tab at the top.
    - Click **"Choose File"** and select the `oes.sql` file from your project directory.
