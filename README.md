@@ -96,6 +96,34 @@ Password: student123
 
 ---
 
+## Usage
+
+1. **Log In**:
+   - Log in as a Lecturer or Admin to create or manage quizzes.
+
+2. **Create or Share Quizzes**:
+   - Create a new quiz or share the code of an existing quiz with students.
+   - Example Quiz Codes: `QZ674571`, `QZ607513`.
+
+3. **Student Participation**:
+   - Students can enter the provided quiz code to start the quiz.
+
+4. **Result Generation**:
+   - At the end of the quiz, results are automatically generated.
+   - To view detailed results:
+     - Click on the **Back to Dashboard** button.
+     - Navigate to the **Results** tab.
+     - Select the quiz and click on **Generate Report**.
+
+## Notes
+- Each student can attempt a quiz only once.
+- Ensure to share the correct quiz code with students to avoid errors.
+
+## Dependencies
+- **Jasper Reports**: Used for generating result sheets.
+
+---
+
 ## Troubleshooting
 
 - **Issue:** Unable to access phpMyAdmin.
